@@ -75,6 +75,7 @@
 		]),
 	]);
 
+	/*
     $widgets['after_content'][] = [
 	  'type' => 'div',
 	  'class' => 'row',
@@ -116,7 +117,7 @@
 	  'close_button' => true, // show close button or not
 	];
 
-    $widgets['before_content'][] = [
+     $widgets['before_content'][] = [
 	  'type' => 'div',
 	  'class' => 'row',
 	  'content' => [ // widgets 
@@ -142,7 +143,7 @@
 		    	]
 	    	],
     	]
-	];
+	]; 
 
     $widgets['after_content'][] = [
 	  'type' => 'div',
@@ -233,6 +234,8 @@
 
     	]
 	];
+	
+	*/
 @endphp
 
 @section('content')
